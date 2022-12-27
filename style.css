@@ -4,7 +4,8 @@ body{
 }
 h1{
     font-size: 25px;
-    font word-spacing: 25px;
+     word-spacing: 25px;
+     letter-spacing:10px;
 
 }
 .orange-color{
